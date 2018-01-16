@@ -13,11 +13,11 @@ importScript("../debug/aLog.js");
 importScript("../collections/aMatrix.js");
 importScript("MVEL.js");
 importScript("Expressions.js");
-importScript("qb.aggregate.js");
-importScript("qb.column.js");
-importScript("qb.cube.js");
-importScript("qb.domain.js");
-importScript("qb.analytic.js");
+importScript("Qb.aggregate.js");
+importScript("Qb.column.js");
+importScript("Qb.cube.js");
+importScript("Qb.domain.js");
+importScript("Qb.analytic.js");
 
 importScript("../threads/thread.js");
 
