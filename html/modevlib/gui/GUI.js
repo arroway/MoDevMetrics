@@ -21,7 +21,7 @@ importScript("RadioFilter.js");
 importScript("../threads/thread.js");
 importScript("../qb/aCompiler.js");
 importScript("../aFormat.js");
-
+importScript("../QuantumFlowBugs.js");
 
 ////////////////////////////////////////////////////////////////////////////////
 // SYNCHRONIZES THREE VARIABLES SO THEY ARE ALL THE SAME.  CHANGING ONE IMMEDIATELY
